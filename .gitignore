@@ -32,3 +32,8 @@ yarn-error.log*
 .DS_Store
 *.pem
 Thumbs.db
+.env
+.env.*
+!.env.sample
+node_modules/
+.next/
